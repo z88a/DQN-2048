@@ -45,5 +45,5 @@ Use DQN to learn how to play 2048 game
 6. ...
 
 ## link
-![公众号文章](https://mp.weixin.qq.com/s?__biz=MzIzNTkzMTk0Mw==&mid=2247484731&idx=1&sn=05b828d09f902e85aba589e82430c739&chksm=e8ded573dfa95c6574c5348c8b4387027493f249d7392a035f715d37d0731a1ad0266e5a483c&token=684133298&lang=zh_CN#rd)
-![AI效果视频](https://www.bilibili.com/video/BV1R24y1r7rp/?vd_source=c4cb0d960e9f587a75f806765d0d1eee)
+[公众号文章](https://mp.weixin.qq.com/s?__biz=MzIzNTkzMTk0Mw==&mid=2247484731&idx=1&sn=05b828d09f902e85aba589e82430c739&chksm=e8ded573dfa95c6574c5348c8b4387027493f249d7392a035f715d37d0731a1ad0266e5a483c&token=684133298&lang=zh_CN#rd)
+[AI效果视频](https://www.bilibili.com/video/BV1R24y1r7rp/?vd_source=c4cb0d960e9f587a75f806765d0d1eee)
