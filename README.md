@@ -39,7 +39,7 @@ Use DQN to learn how to play 2048 game
 
 1. 优化采样，使得网络能够充分训练后期局面；
 2. 使用Dueling DQN架构；
-3. 优化 $\gamma$,$\epsilon$ 参数和参数退火方式；
+3. 优化 $\gamma$, $\epsilon$ 参数和参数退火方式；
 4. 优化神经网络结构；
 5. emb代替one-hot；
 6. ...
